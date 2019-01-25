@@ -1,0 +1,3 @@
+RewriteOptions inherit
+RewriteEngine on
+DirectoryIndex app.js

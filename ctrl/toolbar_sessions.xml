@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<toolbar>
+	<item id="refresh"   type="button"   img="refresh.gif"  imgdis="refresh.gif"  text="Refresh"  />
+	<item id="look"   type="button"   img="user-search.gif"  imgdis="user-search.gif"  text="Show"  />
+	<item id="kill"    type="button"   img="delete.gif"   imgdis="delete.gif"   text="Kill"   />
+</toolbar>
